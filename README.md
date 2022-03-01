@@ -73,14 +73,8 @@ To update the v2ray-plugin version, visit <https://dashboard.heroku.com/apps> an
 
 + v2ray-plugin: v1.3.0
 
-# Reference
 
-https://github.com/ygcaicn/ss-heroku
-
-https://github.com/xiangrui120/v2ray-heroku-undone
-
-https://hub.docker.com/r/shadowsocks/shadowsocks-libev
-
-https://github.com/shadowsocks/v2ray-plugin
 
 ## Originally Forked from https://github.com/aditya-shri/VPN
+
+Try different ways to unblock from heroku
