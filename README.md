@@ -3,7 +3,7 @@
 
 Click the button below to deploy, and remember to order a Star if it works:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/TC4Y/Heroku-VPN)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/trurrdgr/SS-Heroku-VPN)
 ---
 
 Native V2Ray deployment: <https://github.com/ygcaicn/v2ray-heroku>
